@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7f9f94c-68bc-4810-9293-0c9f121c11d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerControls.inputactions" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerControls.inputactions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SeaBeastGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SeaBeastGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/DangerList.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/DangerList.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/FishList.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/FishList.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/FishTemplate.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/FishTemplate.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/JumpBehavour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/JumpBehavour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManger.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManger.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/InstancerSpawn.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/InstancerSpawn.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +70,7 @@
       <workItem from="1697935224174" duration="1672000" />
       <workItem from="1697937338132" duration="663000" />
       <workItem from="1698030790241" duration="2557000" />
+      <workItem from="1698058290387" duration="1857000" />
     </task>
     <servers />
   </component>

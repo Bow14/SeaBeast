@@ -12,4 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6daba5c68196e894781b984fe972c516, type: 3}
   m_Name: FishList
   m_EditorClassIdentifier: 
-  vector3List: []
+  vector3List:
+  - {x: 65, y: 54, z: 0}
+  - {x: 65, y: 40, z: 0}
+  - {x: 65, y: 32, z: 0}
+  - {x: 65, y: 15, z: 0}
+  - {x: 65, y: 4, z: 0}
