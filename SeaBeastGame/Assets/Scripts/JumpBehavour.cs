@@ -10,11 +10,41 @@ using UnityEngine.InputSystem;
     public Rigidbody rb;
     public float gravity = 3f;
     public float jumpSpeed = 20f;
+    public InputAction controls;
 
     private Vector3 position;
+
+    private void OnEnable()
+    {
+        controls.Enable();  
+        
+    }
+
+    private void OnDestroy()
+    {
+        controls.Disable();
+    }
 
     private void Start()
     {
         rb = GetComponent<Rigidbody>();
+    }
+    //this section was helped with  https://www.youtube.com/watch?v=24-BkpFSZuI
+    public void Jumping(InputAction.CallbackContext context)
+    {
+        if (context.performed)
+        {
+            rb.velocity = new Vector3(rb.velocity.x, jumpSpeed);
+        }
+
+        if (context.canceled && rb.velocity.y > 0.5f)
+        {
+            rb.velocity = new Vector3(rb.velocity.x, rb.velocity.y * 0.5f);
+        }
+    }
+
+    private void Update()
+    {
+        position = controls.ReadValue<Vector3>();
     }
 }
