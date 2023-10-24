@@ -18,6 +18,8 @@ public class InstancerSpawn : MonoBehaviour
     
 
     
+
+    
     public void Awake()
     {
         Spawnrandom();
@@ -41,6 +43,7 @@ public class InstancerSpawn : MonoBehaviour
          //Vector3 spawnPos = new Vector3(99, 99, 99);
          Instantiate(prefabbedData[obstacal], spawnPos.vector3List[position], Quaternion.identity);
          Instantiate(prefabbedData[obstacal], spawnPosEnemy.vector3List[position], Quaternion.identity);
+
 
          //spawnPos, quaternion.identity
          
