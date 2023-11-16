@@ -11,7 +11,7 @@ public class TextLableBehaviour : MonoBehaviour
 {
     //Script was made my Anthony Romrell
     private TextMeshProUGUI label;
-    public UnityEvent startEvent;
+    public UnityEvent startEvent, updateEvent;
     
     
     void Start()
@@ -23,12 +23,9 @@ public class TextLableBehaviour : MonoBehaviour
     public void UpdateLabel(FloatData obj)
     {
         label.text = obj.value.ToString(CultureInfo.InvariantCulture);
+        updateEvent.Invoke();
     }
 
-    // public void UpdateLabel(IntData obj)
-    // {
-    //     label.text = obj.value.ToString(CultureInfo.InvariantCulture);
-    //
-    // }
+   
    
 }
