@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7f9f94c-68bc-4810-9293-0c9f121c11d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SeaBeastGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SeaBeastGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/DangerList.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/DangerList.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Score.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Score.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/FishTemplate.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/FishTemplate.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/HookTemplate.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/HookTemplate.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HoudiniEngineAssetCache/Baked/LowPolyFish_Tool1/Materials/HEU_DEFAULT_MATERIAL_30_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HoudiniEngineAssetCache/Baked/LowPolyFish_Tool1/Materials/HEU_DEFAULT_MATERIAL_30_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Background.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Background.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/SpikeTemplate.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/SpikeTemplate.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CollisionEventsBehavoiur.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CollisionEventsBehavoiur.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Spike_Tool_bakedHDA.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Spike_Tool_bakedHDA.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/InstancerSpawn.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/InstancerSpawn.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/JumpBehavour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/JumpBehavour.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +69,7 @@
       <workItem from="1698030790241" duration="2557000" />
       <workItem from="1698058290387" duration="1857000" />
       <workItem from="1698101938268" duration="3903000" />
+      <workItem from="1700130088307" duration="362000" />
     </task>
     <servers />
   </component>

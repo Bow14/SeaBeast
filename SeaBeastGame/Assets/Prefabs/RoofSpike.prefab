@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &6098472933724588974
+--- !u!1 &3309171266468174339
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,43 +8,42 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 4899343011656215184}
-  - component: {fileID: 2877416036017143179}
-  - component: {fileID: 1528345169503532745}
-  - component: {fileID: 2864772816717584914}
-  - component: {fileID: -3796069555874718120}
-  - component: {fileID: -488038787924830381}
-  - component: {fileID: 166593677372671511}
-  - component: {fileID: -4394861069471386970}
-  m_Layer: 6
-  m_Name: LowPolyFish_Tool1_bakedHDA
-  m_TagString: Fish
+  - component: {fileID: 8607396644237129149}
+  - component: {fileID: 1570734565502193083}
+  - component: {fileID: 1070363606587733820}
+  - component: {fileID: -941341740270918202}
+  - component: {fileID: 8684244254228621400}
+  - component: {fileID: -5067152514031840773}
+  - component: {fileID: -2286089156473317573}
+  m_Layer: 7
+  m_Name: RoofSpike
+  m_TagString: Danger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4899343011656215184
+--- !u!4 &8607396644237129149
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6098472933724588974}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_GameObject: {fileID: 3309171266468174339}
+  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.8, y: 0.8, z: 0.8}
+  m_LocalScale: {x: 0.8, y: -4, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!23 &2877416036017143179
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
+--- !u!23 &1570734565502193083
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6098472933724588974}
+  m_GameObject: {fileID: 3309171266468174339}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -58,7 +57,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c4bacc715177fc4498fafaa8ba0e416c, type: 2}
+  - {fileID: 2100000, guid: 6da292f64ecfd95488dd0e771c80f894, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -80,74 +79,47 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!33 &1528345169503532745
+--- !u!33 &1070363606587733820
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6098472933724588974}
-  m_Mesh: {fileID: 4300000, guid: db466d24fe595614982500c6e7b72479, type: 2}
---- !u!114 &2864772816717584914
+  m_GameObject: {fileID: 3309171266468174339}
+  m_Mesh: {fileID: 4300000, guid: 204b41de306de1a43acfbb211f8accbf, type: 2}
+--- !u!114 &-941341740270918202
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6098472933724588974}
+  m_GameObject: {fileID: 3309171266468174339}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2459f87ffc2a6a3409377c9692eb8541, type: 3}
+  m_Script: {fileID: 11500000, guid: 0356481c19c5dae429bda3db8eea0aee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  collectionEvent:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 6098472933724588974}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
---- !u!114 &-3796069555874718120
+  speed: 16
+--- !u!114 &8684244254228621400
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6098472933724588974}
+  m_GameObject: {fileID: 3309171266468174339}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c76a34a6bf6bb2848a450c413461c005, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   seconds: 25
---- !u!114 &-488038787924830381
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6098472933724588974}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0356481c19c5dae429bda3db8eea0aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 8
---- !u!54 &166593677372671511
+--- !u!54 &-5067152514031840773
 Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6098472933724588974}
+  m_GameObject: {fileID: 3309171266468174339}
   serializedVersion: 2
   m_Mass: 1
   m_Drag: 0
@@ -155,18 +127,19 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 62
   m_CollisionDetection: 0
---- !u!65 &-4394861069471386970
-BoxCollider:
+--- !u!136 &-2286089156473317573
+CapsuleCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6098472933724588974}
+  m_GameObject: {fileID: 3309171266468174339}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 8.663147, y: 3.4846559, z: 2.5990036}
-  m_Center: {x: 2.1615736, y: 0.10175568, z: 0}
+  m_Radius: 1.6022182
+  m_Height: 9.715409
+  m_Direction: 1
+  m_Center: {x: 0.028254509, y: 4.416633, z: 0.08796191}

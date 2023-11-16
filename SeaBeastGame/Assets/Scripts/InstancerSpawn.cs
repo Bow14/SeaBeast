@@ -13,7 +13,7 @@ public class InstancerSpawn : MonoBehaviour
 
    
     public Vector3DataList spawnPos;
-    public Vector3DataList spawnPosEnemy;
+    //public Vector3DataList spawnPosEnemy;
 
     
 
@@ -42,7 +42,7 @@ public class InstancerSpawn : MonoBehaviour
          int position = Random.Range(0, spawnPos.vector3List.Count -1);
          //Vector3 spawnPos = new Vector3(99, 99, 99);
          Instantiate(prefabbedData[obstacal], spawnPos.vector3List[position], Quaternion.identity);
-         Instantiate(prefabbedData[obstacal], spawnPosEnemy.vector3List[position], Quaternion.identity);
+         //Instantiate(prefabbedData[obstacal], spawnPosEnemy.vector3List[position], Quaternion.identity);
 
 
          //spawnPos, quaternion.identity

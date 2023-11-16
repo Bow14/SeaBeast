@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 8684244254228621400}
   - component: {fileID: -5067152514031840773}
   - component: {fileID: -2286089156473317573}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Spike_Tool_bakedHDA
   m_TagString: Danger
   m_Icon: {fileID: 0}
@@ -57,7 +57,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f4eb471a40b4c7a44a4a47c4f1ca3335, type: 2}
+  - {fileID: 2100000, guid: 6da292f64ecfd95488dd0e771c80f894, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -99,7 +99,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0356481c19c5dae429bda3db8eea0aee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 12
 --- !u!114 &8684244254228621400
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -112,7 +112,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c76a34a6bf6bb2848a450c413461c005, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  seconds: 17
+  seconds: 25
 --- !u!54 &-5067152514031840773
 Rigidbody:
   m_ObjectHideFlags: 0
