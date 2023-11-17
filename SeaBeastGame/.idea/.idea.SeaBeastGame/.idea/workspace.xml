@@ -2,9 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7f9f94c-68bc-4810-9293-0c9f121c11d1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SeaBeastGame/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SeaBeastGame/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SeaBeastGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SeaBeastGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/LowPolyFish_Tool1_bakedHDA.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/LowPolyFish_Tool1_bakedHDA.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/CollectionPoint.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/CollectionPoint.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/Counter.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Counter.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/FloatData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/FloatData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/RaiseScore.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/RaiseScore.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameAction.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameAction.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/ActionsEvents/GameActionsHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/ActionsEvents/GameActionsHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/InputSystem/GameInputs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnt/InputSystem/GameInputs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Legacy Input.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Legacy Input/Actions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Legacy Input/Actions/AnyKeyAction.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Legacy Input/Actions/AnyKeyAction.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Legacy Input/Actions/JumpAction.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Legacy Input/Actions/JumpAction.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Legacy Input/Actions/LeftRightKeysAction.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Legacy Input/Actions/LeftRightKeysAction.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Legacy Input/Actions/horizontalInputAction.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Legacy Input/Actions/horizontalInputAction.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Legacy Input/Actions/verticalInputAction.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Legacy Input/Actions/verticalInputAction.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Legacy Input/InputsViaKeys.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Legacy Input/InputsViaKeys.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Legacy Input/KeyInputBehaviour.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Legacy Input/KeyInputBehaviour.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Legacy Input/TextInteract.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Legacy Input/TextInteract.prefab.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/UI/TextLableBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/TextLableBehaviour.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
@@ -70,6 +100,9 @@
       <workItem from="1698101938268" duration="3903000" />
       <workItem from="1700130088307" duration="2703000" />
       <workItem from="1700195492542" duration="756000" />
+      <workItem from="1700196623237" duration="268000" />
+      <workItem from="1700197013258" duration="8000" />
+      <workItem from="1700197073294" duration="322000" />
     </task>
     <servers />
   </component>
@@ -79,6 +112,17 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>

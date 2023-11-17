@@ -20,7 +20,7 @@ public class TextLableBehaviour : MonoBehaviour
     {
         label = GetComponent<TextMeshProUGUI>();
         startEvent.Invoke();
-        raiseScore.raise += RaiseScore;
+        raiseScore.raiseNoArgs += RaiseScore;
     }
 
     public void UpdateLabel(FloatData obj)
