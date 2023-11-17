@@ -2931,6 +2931,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   startEvent:
     m_PersistentCalls:
+      m_Calls: []
+  updateEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  raiseEvent:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1416622864}
         m_TargetAssemblyTypeName: TextLableBehaviour, Assembly-CSharp
@@ -2944,9 +2950,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  updateEvent:
-    m_PersistentCalls:
-      m_Calls: []
+  raiseScore: {fileID: 11400000, guid: d3d3ed4b43bda49448975ed36e0f85fd, type: 2}
 --- !u!102 &1416622865
 TextMesh:
   serializedVersion: 3

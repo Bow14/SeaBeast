@@ -12,12 +12,15 @@ public class TextLableBehaviour : MonoBehaviour
     //Script was made my Anthony Romrell
     private TextMeshProUGUI label;
     public UnityEvent startEvent, updateEvent;
+    public UnityEvent raiseEvent;
+    public GameAction raiseScore;
     
     
     void Start()
     {
         label = GetComponent<TextMeshProUGUI>();
         startEvent.Invoke();
+        raiseScore.raise += RaiseScore;
     }
 
     public void UpdateLabel(FloatData obj)
@@ -26,6 +29,11 @@ public class TextLableBehaviour : MonoBehaviour
         updateEvent.Invoke();
     }
 
-   
-   
+    public void RaiseScore()
+    {
+       raiseEvent.Invoke();
+    }
+
+
+
 }
