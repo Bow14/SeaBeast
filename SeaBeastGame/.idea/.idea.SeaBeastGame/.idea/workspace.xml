@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7f9f94c-68bc-4810-9293-0c9f121c11d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Ground - Logo Scene.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Ground - Logo Scene.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SeaBeastGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SeaBeastGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/LowPolyFish_Tool1_bakedHDA.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/LowPolyFish_Tool1_bakedHDA.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/ActionsEvents/GameActionsHandler.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/ActionsEvents/GameActionsHandler.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/InputSystem/GameInputs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnt/InputSystem/GameInputs.cs" afterDir="false" />
@@ -26,7 +27,14 @@
       <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Legacy Input/KeyInputBehaviour.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Legacy Input/TextInteract.prefab" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Legacy Input/TextInteract.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Store/Cash.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnt/Store/Cash.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Store/Inventory/Axe.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnt/Store/Inventory/Axe.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Store/Inventory/Hammer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Store/Inventory/Hammer.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnt/Store/NewStore.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnt/Store/NewStore.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/TextLableBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/TextLableBehaviour.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +102,8 @@
       <workItem from="1700197013258" duration="8000" />
       <workItem from="1700197073294" duration="322000" />
       <workItem from="1700397019462" duration="1000" />
+      <workItem from="1700398037871" duration="304000" />
+      <workItem from="1700448960558" duration="2265000" />
     </task>
     <servers />
   </component>

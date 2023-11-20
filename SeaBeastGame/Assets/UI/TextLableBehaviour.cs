@@ -23,7 +23,7 @@ public class TextLableBehaviour : MonoBehaviour
         raiseScore.raiseNoArgs += RaiseScore;
     }
 
-    public void UpdateLabel(FloatData obj)
+    public void UpdateLabel(IntData obj)
     {
         label.text = obj.value.ToString(CultureInfo.InvariantCulture);
         updateEvent.Invoke();

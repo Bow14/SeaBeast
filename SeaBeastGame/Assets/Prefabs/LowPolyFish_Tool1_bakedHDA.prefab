@@ -104,19 +104,19 @@ MonoBehaviour:
   collectionEvent:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11400000, guid: 543d387597714a249bd8e950b1e99616, type: 2}
-        m_TargetAssemblyTypeName: FloatData, Assembly-CSharp
+      - m_Target: {fileID: 11400000, guid: 7ebd98afc5c5c4e329172fd812dc7d0a, type: 2}
+        m_TargetAssemblyTypeName: IntData, Assembly-CSharp
         m_MethodName: UpdateValue
-        m_Mode: 4
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 1
           m_FloatArgument: 1
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 11400000, guid: d3d3ed4b43bda49448975ed36e0f85fd, type: 2}
+      - m_Target: {fileID: 11400000, guid: 250d90a0d99e4418598835030a603af3, type: 2}
         m_TargetAssemblyTypeName: GameAction, Assembly-CSharp
         m_MethodName: RaiseAction
         m_Mode: 1
@@ -143,7 +143,7 @@ MonoBehaviour:
   collectionUpdate:
     m_PersistentCalls:
       m_Calls: []
-  foodCount: {fileID: 11400000, guid: 543d387597714a249bd8e950b1e99616, type: 2}
+  foodCount: {fileID: 0}
 --- !u!114 &-3796069555874718120
 MonoBehaviour:
   m_ObjectHideFlags: 0
