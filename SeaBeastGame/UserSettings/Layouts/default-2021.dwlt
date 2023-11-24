@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 688
     height: 933
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 68
+  controlID: 79
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -121,8 +121,8 @@ MonoBehaviour:
     y: 0
     width: 250
     height: 933
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 69
+  controlID: 80
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -275,7 +275,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 70
+  controlID: 81
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -295,8 +295,8 @@ MonoBehaviour:
     y: 0
     width: 831
     height: 933
-  m_MinSize: {x: 102, y: 121}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 15}
@@ -592,7 +592,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 8.208833, y: 1.3988647, z: 49.94992}
     speed: 2
-    m_Value: {x: 0.022603631, y: 22.083166, z: 0.08796191}
+    m_Value: {x: 8.208833, y: 1.3988647, z: 49.94992}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -641,11 +641,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.0812136, y: 0.012554124, z: -0.0010258545, w: -0.99662614}
     speed: 2
-    m_Value: {x: -0.04825227, y: -0.03984708, z: 0.001923899, w: -0.99803823}
+    m_Value: {x: -0.08121288, y: 0.012554011, z: -0.0010258453, w: -0.99661726}
   m_Size:
     m_Target: 271.62976
     speed: 2
-    m_Value: 24.393986
+    m_Value: 271.62976
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -739,22 +739,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets/ToolsAnthon/Store/ExampleScenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/ToolsAnthon/Store/ExampleScenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\GitRepo\SeaBeast\SeaBeastGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 60}
-    m_SelectedIDs: be610000
-    m_LastClickedID: 25022
-    m_ExpandedIDs: 000000008c6100008e61000090610000926100009461000096610000986100009a6100009c6100009e610000a0610000a2610000a461000000ca9a3b
+    scrollPos: {x: 0, y: 720}
+    m_SelectedIDs: 20630000
+    m_LastClickedID: 25376
+    m_ExpandedIDs: 00000000a2620000a4620000a6620000a8620000aa620000ac620000ae620000b0620000b2620000b4620000b6620000b8620000ba62000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -782,7 +782,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008c6100008e61000090610000926100009461000096610000986100009a6100009c6100009e610000a0610000a2610000a4610000
+    m_ExpandedIDs: 00000000a2620000a4620000a6620000a8620000aa620000ac620000ae620000b0620000b2620000b4620000b6620000b8620000ba620000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -910,9 +910,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 72600000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 08fbffff9c5f0000
+      m_ExpandedIDs: 00f2ffff8cf2ffffecf3ffff32f5ffff4ef6ffff2efbffff26650000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
