@@ -2,48 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7f9f94c-68bc-4810-9293-0c9f121c11d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ToolsAnthon" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SeaBeastGame/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SeaBeastGame/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SeaBeastGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SeaBeastGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Spike_Tool_Small.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Spike_Tool_Small.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Spike_Tool_bakedHDA.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Spike_Tool_bakedHDA.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/ActionsEvents/GameActionHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnthon/ActionsEvents/GameActionHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/Action.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/Action.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/GameIMP.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/GameIMP.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/GameInputs.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/GameInputs.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/GameInputs.inputactions" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/GameInputs.inputactions.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/GameInputsSO.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/GameInputsSO.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/InputPlayer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/InputPlayer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/RigidBodyWithTouch.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/RigidBodyWithTouch.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/Speed.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/Speed.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/Touch.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/Touch.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/TouchBehaviour.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/TouchBehaviour.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/TouchData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/TouchData.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/TouchSwipeBehaviour.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/InputSystem/TouchSwipeBehaviour.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/SingleVariables/FloatData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnthon/SingleVariables/FloatData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/SingleVariables/IntData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnthon/SingleVariables/IntData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/SOs/Cash.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/SOs/Cash.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/SOs/Inventory/Hammer.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/SOs/Inventory/Hammer.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/SOs/Inventory/SnappaPurple.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/SOs/Inventory/SnappaPurple.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/ActionsEvents/GameAction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnthon/ActionsEvents/GameAction.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/Sprites/SpriteRendererBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnthon/Sprites/SpriteRendererBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/ExampleScenes/NewStore.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/ExampleScenes/NewStore.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/ExampleScenes/UsePurchase.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/ExampleScenes/UsePurchase.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/Inventory/Cash.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/Inventory/Cash.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/Prefabs/storeButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/Prefabs/storeButton.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/SOs/Inventory/0 Store Data.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/SOs/Inventory/0 Store Data.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/SOs/Inventory/Axe.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/SOs/Inventory/Axe.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/SOs/Inventory/Bow.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/SOs/Inventory/Bow.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/SOs/Inventory/Gun.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/SOs/Inventory/Gun.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/SOs/Inventory/Mini Gun.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/SOs/Inventory/Mini Gun.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/Scripts/InventoryConfigBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/Scripts/InventoryConfigBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/Scripts/InventoryData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/Scripts/InventoryData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/Scripts/InventoryItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/Scripts/InventoryItem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/Scripts/InventoryUIButtonBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/Scripts/InventoryUIButtonBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/Scripts/StoreUIButtonBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/Scripts/StoreUIButtonBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,6 +97,7 @@
       <workItem from="1700853030856" duration="693000" />
       <workItem from="1700854071272" duration="1066000" />
       <workItem from="1700855168073" duration="311000" />
+      <workItem from="1700884111572" duration="3406000" />
     </task>
     <servers />
   </component>
