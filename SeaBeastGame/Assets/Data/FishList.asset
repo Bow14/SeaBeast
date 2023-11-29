@@ -13,8 +13,12 @@ MonoBehaviour:
   m_Name: FishList
   m_EditorClassIdentifier: 
   vector3List:
-  - {x: 65, y: 54, z: 0}
-  - {x: 65, y: 40, z: 0}
-  - {x: 65, y: 32, z: 0}
-  - {x: 65, y: 15, z: 0}
-  - {x: 65, y: 4, z: 0}
+  - {x: 120, y: 54, z: 0}
+  - {x: 120, y: 40, z: 0}
+  - {x: 120, y: 32, z: 0}
+  - {x: 120, y: 15, z: 0}
+  - {x: 120, y: 2, z: 0}
+  - {x: 120, y: 25, z: 0}
+  - {x: 120, y: 12, z: 0}
+  - {x: 120, y: 8, z: 0}
+  - {x: 120, y: 5, z: 0}

@@ -13,6 +13,8 @@ MonoBehaviour:
   m_Name: Counter
   m_EditorClassIdentifier: 
   value: 0
+  minValue: 0
+  maxValue: 0
   minValueEvent:
     m_PersistentCalls:
       m_Calls: []

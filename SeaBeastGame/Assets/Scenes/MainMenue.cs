@@ -24,5 +24,20 @@ public class MainMenue : MonoBehaviour
         Application.Quit();
     }
     
+    public void StoreMenu()
+    {
+        SceneManager.LoadScene("NewStore");
+    }
     
+    public void PlayMenue()
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("Main");
+    }
+    
+    public void LoadMenu()
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("StartMenu");
+    }
 }
