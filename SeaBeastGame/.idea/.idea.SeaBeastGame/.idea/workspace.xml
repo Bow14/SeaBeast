@@ -3,7 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="a7f9f94c-68bc-4810-9293-0c9f121c11d1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SeaBeastGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SeaBeastGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/DangerList.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/DangerList.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/LowPolyFish_Tool1_bakedHDA.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/LowPolyFish_Tool1_bakedHDA.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/ExampleScenes/NewStore.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/ExampleScenes/NewStore.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/SOs/Inventory/StoreSkinData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToolsAnthon/Store/SOs/Inventory/StoreSkinData.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/MainWaterCave.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/MainWaterCave.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/PauseGameBehavoiur.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/PauseGameBehavoiur.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +93,7 @@
       <workItem from="1700884111572" duration="3406000" />
       <workItem from="1700973541138" duration="2150000" />
       <workItem from="1701204584935" duration="1148000" />
+      <workItem from="1701211047870" duration="3038000" />
     </task>
     <servers />
   </component>

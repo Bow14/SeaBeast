@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: DangerList
   m_EditorClassIdentifier: 
   vector3List:
-  - {x: 140, y: -30, z: 0}
-  - {x: 140, y: -35, z: 0}
+  - {x: 140, y: -12, z: 0}
+  - {x: 140, y: -20, z: 0}
   - {x: 140, y: -25, z: 0}
-  - {x: 140, y: -10, z: 0}
-  - {x: 140, y: -5, z: 0}
+  - {x: 140, y: -11, z: 0}
+  - {x: 140, y: -14, z: 0}
