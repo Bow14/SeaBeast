@@ -15,6 +15,8 @@ GameObject:
   - component: {fileID: 8684244254228621400}
   - component: {fileID: -5067152514031840773}
   - component: {fileID: -2286089156473317573}
+  - component: {fileID: 8280386413087552065}
+  - component: {fileID: -53024988204941916}
   m_Layer: 7
   m_Name: Spike_Tool_Small
   m_TagString: Danger
@@ -143,3 +145,61 @@ CapsuleCollider:
   m_Height: 9.715409
   m_Direction: 1
   m_Center: {x: 0.028254509, y: 4.416633, z: 0.08796191}
+--- !u!114 &8280386413087552065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3309171266468174339}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac7edf651735e49eba622fd0d2b31062, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  triggerEnterEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: e2602a51d8ab4134788892498b02b5cb, type: 2}
+        m_TargetAssemblyTypeName: IntData, Assembly-CSharp
+        m_MethodName: UpdateValue
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: -1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: IntData, Assembly-CSharp
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  RaiseEndGameEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  endGameAction: {fileID: 11400000, guid: 79008dd4490ae5849af2a4df356116f4, type: 2}
+--- !u!114 &-53024988204941916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3309171266468174339}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fae18ea1ec95df440aa36b8bcbad72bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
